@@ -1,4 +1,5 @@
 import requests
+import os
 
 OWM_Endpoint = 'https://api.openweathermap.org/data/2.5/weather'
 api_key = "575521e0b96567d841e709e8096d6b6f"
