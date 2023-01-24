@@ -5,7 +5,7 @@ OWM_Endpoint = 'https://api.openweathermap.org/data/2.5/weather'
 api_key = config.WEATHER_API_KEY
 LAT = 40.193649
 LON = -85.386520
-
+#575521e0b96567d841e709e8096d6b6f
 parameters = {
     'lat': LAT,
     'lon': LON,
